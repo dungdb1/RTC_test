@@ -10,7 +10,9 @@ public class git {
 		// TODO Auto-generated method stub
 		
 		System.out.println("asdakdaldj");
-		System.out.println("commit lan 2");
+		System.out.println("commit lan 2 = 523449");
+		
+		
 
 	}
 
