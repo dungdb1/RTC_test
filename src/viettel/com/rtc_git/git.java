@@ -8,6 +8,9 @@ public class git {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("asdakdaldj");
+		System.out.println("commit lan 2");
 
 	}
 
